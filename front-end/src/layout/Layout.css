@@ -1,4 +1,18 @@
 .side-bar {
-  background-color: #393a44;
+  background-color: #f07f52;
   min-width: 200px;
+  height: 100vh;
+}
+.btn {
+  margin-right: 5px;
+}
+thead {
+  background-color: #ff968a;
+}
+tr:hover {
+  background-color: #ffaea5;
+}
+body {
+  background-color:ffc5bf;
+  font-family: 'Times New Roman', Times, serif;
 }
