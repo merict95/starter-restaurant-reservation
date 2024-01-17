@@ -15,7 +15,16 @@ My application allows users to:
     - Handle reservation modifications and cancellations.
     - Enhance overall restaurant management and customer service.
 
-This system is a boon for restaurant operators, easing the management burden and enhancing the dining experience for their patrons.
+## Screenshots
+Dashboard/Home Page:
+### Dashboard
+
+![Dashboard](https://github.com/merict95/starter-restaurant-reservation/blob/main/front-end/screenshots/us-05-dashboard-finish-button-before.png?raw=true)
+-Lists reservations for today, sorted by time, with status indicators.
+-Allows editing and cancellation of booked reservations.
+-Offers navigation for viewing reservations on different dates.
+-Displays table statuses (Free/Occupied) with a "Finish" option for occupied tables.
+-Shows API error messages when applicable.
 
 
 
