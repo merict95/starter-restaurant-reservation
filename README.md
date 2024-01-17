@@ -16,15 +16,14 @@ My application allows users to:
     - Enhance overall restaurant management and customer service.
 
 ## Screenshots
-Dashboard/Home Page:
-### Dashboard
+Dashboard/HomePage:
+![Dashboard/HomePage:](https://github.com/merict95/starter-restaurant-reservation/blob/main/front-end/screenshots/us-05-dashboard-finish-button-before.png?raw=true)
+- Lists reservations for today, sorted by time, with status indicators.
+- Allows editing and cancellation of booked reservations.
+- Offers navigation for viewing reservations on different dates.
+- Displays table statuses (Free/Occupied) with a "Finish" option for occupied tables.
+- Shows API error messages when applicable.
 
-![Dashboard](https://github.com/merict95/starter-restaurant-reservation/blob/main/front-end/screenshots/us-05-dashboard-finish-button-before.png?raw=true)
--Lists reservations for today, sorted by time, with status indicators.
--Allows editing and cancellation of booked reservations.
--Offers navigation for viewing reservations on different dates.
--Displays table statuses (Free/Occupied) with a "Finish" option for occupied tables.
--Shows API error messages when applicable.
 
 
 
