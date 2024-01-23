@@ -17,11 +17,11 @@ function Menu() {
           to="/"
         >
           <div className="sidebar-brand-text mx-3">
-            <h1>Periodic Tables</h1>
+            <span className="fw5">Periodic Tables</span>
           </div>
         </Link>
         <hr className="sidebar-divider my-0" />
-        <ul className="nav navbar-nav text-white" id="accordionSidebar">
+        <ul className="nav navbar-nav text-light" id="accordionSidebar">
           <li className="nav-item">
             <Link className="nav-link" to="/dashboard">
               <span className="oi oi-dashboard" />
@@ -47,13 +47,6 @@ function Menu() {
             </Link>
           </li>
         </ul>
-        <div className="text-center d-none d-md-inline">
-          <button
-            className="btn rounded-circle border-0"
-            id="sidebarToggle"
-            type="button"
-          />
-        </div>
       </div>
     </nav>
   );
