@@ -3,8 +3,9 @@
 The "Restaurant Reservation App" is a sophisticated solution for managing restaurant reservations and table allocations efficiently. Designed to cater to both restaurant staff and customers, this application streamlines the reservation process, offering a user-friendly interface and real-time data management.
 
 ## Link to Live Application:
-    - Front-end: (https://restaurant-reservations-project-front-end.onrender.com)
-    - Back-end: (https://restaurant-reservations-project-back-end.onrender.com)
+- [Front-end](https://restaurant-reservations-project-front-end.onrender.com)
+- [Back-end](https://restaurant-reservations-project-back-end.onrender.com)
+
 
 ## Summary
 
